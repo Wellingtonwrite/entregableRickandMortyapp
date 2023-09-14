@@ -1,0 +1,11 @@
+html{
+    background-color: rgba(83, 70, 104, 0.209);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.title{
+    color: rgb(146, 27, 27);
+}
+
+
